@@ -1,11 +1,33 @@
 .container {
     margin-top: 25px;
+    background-color: white;
+    padding: 20px;
 }
 
-.card {
-  margin: auto;
+p {
+    font-size: 20px;
+}
+
+body {
+    background-color: grey;
+}
+
+
+.page-header {
+    padding: 10px;
+    border-bottom: gray 2px solid;
+    margin-bottom: 5px;
+}
+
+.card-container {
+  margin-left: 20px;
 }
 .card-text {
     font-size: large;
     font-weight: bold;
 }
+
+.card-row {
+    margin-top: 10px;
+}
+

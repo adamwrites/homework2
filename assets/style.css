@@ -1,0 +1,11 @@
+.container {
+    margin-top: 25px;
+}
+
+.card {
+  margin: auto;
+}
+.card-text {
+    font-size: large;
+    font-weight: bold;
+}
